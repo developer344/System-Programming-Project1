@@ -1,8 +1,8 @@
 # System Programming - Project 1 - 2021
 
-# Name: Ioannis
-# Surname: Georgopoulos
-# sdi:1115201800026
+## Name: Ioannis
+## Surname: Georgopoulos
+## sdi:1115201800026
 
    Το readme.txt περιέχει σχόλια όσων αναφορά την υλοποίηση των δομών   
  καθώς και σχολιασμό πανώ σε κάποιες συναρτήσεις που απαιτούν σχολιασμό 
